@@ -1,5 +1,5 @@
 # Party Service
-A lightweight Party manager built in luau. I'm probably not gonna maintain this as this was just to help me practice my OOP.
+A lightweight Party manager built in luau. I'm probably not gonna maintain this as this was built in around an hour just to help me practice my OOP.
 ## Constructors:
 `PartyService.new(Owner: Player)`
 ## Methods:
